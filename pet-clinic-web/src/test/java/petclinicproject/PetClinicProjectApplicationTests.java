@@ -1,4 +1,4 @@
-package com.quanthetran.petclinicproject;
+package petclinicproject;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
